@@ -1,0 +1,28 @@
+{
+  "name": "next_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tanstack/react-query": "^4.29.1",
+    "material-components-web": "^14.0.0",
+    "next": "^13.3.0",
+    "nodemon": "^2.0.22",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0"
+  }
+}
